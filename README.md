@@ -1,5 +1,13 @@
-# 💫 Daniel Rockenbach:
-Sou estudante de Ciência da Computação na ATITUS Educação, com forte paixão por tecnologia e desenvolvimento pessoal. O escotismo, que pratico como filosofia de vida, me ensinou responsabilidade, trabalho em equipe e resiliência, habilidades que apliquei em ações voluntárias, como o apoio nas enchentes de 2023 e 2024.<br><br>Tenho conhecimentos em Python, HTML, CSS, JavaScript, Machine Learning e Banco de Dados, além de inglês avançado. Destaco-me pela rápida adaptação, comunicação clara e organização, sempre focado em entregar resultados com ética e criatividade. Estou preparado para contribuir no mercado de TI, trazendo comprometimento, disciplina e capacidade de resolver desafios operacionais em ambientes multidisciplinares.
+Sou estudante de Ciência da Computação na ATITUS Educação, onde aplico minha paixão por tecnologia, inovação e o compromisso com a excelência acadêmica. Busco constantemente atualização em novas tendências e tecnologias, focado em entender e resolver as demandas reais do mercado. Acredito que o desenvolvimento contínuo de soft skills e o aprimoramento técnico são os pilares para uma ascensão profissional sólida.
+
+Minha trajetória é marcada pelo Movimento Escoteiro, onde desenvolvi competências essenciais de liderança, trabalho em equipe e empatia. Tenho orgulho da minha atuação em ações voluntárias, como as missões de apoio durante as enchentes de 2023 e 2024 no RS, que reforçaram minha resiliência e responsabilidade social.
+
+Formação e Certificações:
+- Graduação(Em andamento): Ciência da Computação (ATITUS).
+- Idiomas: Inglês em formação (King of Languages).
+- Certificações: Desenvolvimento de Aplicações Júnior.
+- Especializações em curso (Nanos em andamento): Soluções Full Stack e Engenharia de Software.
+- Cisco Networking Academy: Foco em IA, Dados (análise e manipulação) e Desenvolvimento de Software.
 
 
 ## 🌐 Redes:
